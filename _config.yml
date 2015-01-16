@@ -1,0 +1,33 @@
+# Site settings
+title: Ladder & Dolly
+email: ladderanddolly@gmail.com
+description: "A Personal Chef Service: Serving well-balanced, all-natural, all organic ready to re-heat and eat meals to you and your family."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18bc9c #80B3FF
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Footer settings
+footer:
+  copyright: Ladder & Dolly
+  location: East Nashville, Tennessee
+  social: "@lil.lad"
+  credits: Ladder & Dolly
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: instagram
+    url: http://instagram.com/lil.lad
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: East Nashville, TN 37206
+
+# Credits content
+credits: 'Ladder & Dolly'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
