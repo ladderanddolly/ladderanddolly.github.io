@@ -3,10 +3,11 @@ layout: default
 modal-id: 6
 date: 2015-05-21
 img: sammie.jpg
-alt: image-alt
+alt: Late morning sammie
 project-date: May 2015
 client: Personal Chef
 category: Chef
+title: Late Morning Sammie
 description: Perfect late morning sammie, layered with fried egg, arugula, caramelized onions, and gouda cheese. Yum.
 
 ---

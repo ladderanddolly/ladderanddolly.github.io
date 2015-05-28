@@ -443,3 +443,8 @@ footer .footer-below {
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
 }
+
+#about_me {
+    line-height: 2.2em;
+    font-size: 14px;
+}

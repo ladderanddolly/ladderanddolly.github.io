@@ -3,9 +3,10 @@ layout: default
 modal-id: 3
 date: 2015-05-21
 img: biscuits.jpg
-alt: image-alt
+alt: Biscuits
 project-date: May 2015
 client: Personal Chef
 category: Chef
+title: Amaranth Crusted Biscuits
 description: From one of my favorites, 101cookbooks.com aka Heidi Swanson.  These amaranth crusted biscuits have a heartiness to them that all biscuits do, but the seed crust makes them unique.
 ---

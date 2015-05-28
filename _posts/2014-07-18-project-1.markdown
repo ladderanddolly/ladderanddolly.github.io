@@ -3,9 +3,10 @@ layout: default
 modal-id: 1
 date: 2015-05-21
 img: bakedeggs.jpg
-alt: image-alt
+alt: Baked eggs
 project-date: May 2015
 client: Personal Chef
 category: Chef
+title: Baked Eggs
 description: Baked eggs in homemade marinara sauce.
 ---
