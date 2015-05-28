@@ -444,7 +444,7 @@ footer .footer-below {
     transform: rotate(90deg);
 }
 
-#about_me {
+.text_content {
     line-height: 2.2em;
     font-size: 14px;
 }
