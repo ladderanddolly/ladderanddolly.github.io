@@ -3,10 +3,11 @@ layout: default
 modal-id: 5
 date: 2015-05-21
 img: getwellsoup.jpg
-alt: image-alt
+alt: Get well soup
 project-date: May 2015
 client: Personal Chef
 category: Chef
+title: Get Well Soup
 description: Loaded with white pepper, miso, ginger, and garlic, this soup will have you bouncing back from any kind of ailment.
 
 ---

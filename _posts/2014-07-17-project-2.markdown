@@ -3,10 +3,11 @@ layout: default
 modal-id: 2
 date: 2015-05-21
 img: beansandrice.jpg
-alt: image-alt
+alt: Beans and Rice
 project-date: May 2015
 client: Personal Chef
 category: Chef
+title: Beans and Rice
 description: Comfort food bowl full of hearty home cooked pinto beans, brown rice, and fresh veggies.  One of my favorite ways to warm the soul.
 
 ---

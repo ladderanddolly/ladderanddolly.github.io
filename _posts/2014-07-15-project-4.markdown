@@ -3,10 +3,11 @@ layout: default
 modal-id: 4
 date: 2015-05-21
 img: family.jpg
-alt: image-alt
+alt: Family
 project-date: May 2015
 client: Personal Chef
 category: Chef
+title: My Biggest Fan
 description: My biggest fan.  He eats literally everything I put in front of him.  If it's Everett approved, I'm willing to make it again for friends and family.
 
 ---
