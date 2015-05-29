@@ -451,7 +451,27 @@ footer .footer-below {
     transform: rotate(90deg);
 }
 
-.text_content {
+#accordion {
+  padding-top: 30px;
+}
+
+#about_me, #about_name, #about_service {
+    color: #8A8780;
+}
+
+#about_me p,
+#about_name p,
+#about_service p {
     line-height: 2.2em;
-    font-size: 14px;
+    font-size: 16px;
+}
+
+#heading_me h4,
+#heading_name h4,
+#heading_service h4 {
+  color: #8A8780;
+}
+
+#about_service i, #about_service li {
+  line-height: 2.2em;
 }
