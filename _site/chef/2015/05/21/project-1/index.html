@@ -15,6 +15,7 @@
 
     <!-- Custom Fonts -->
     <link rel="stylesheet" href="/css/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/css/flexslider/flexslider.css">
     <link href='http://fonts.googleapis.com/css?family=Roboto:100' rel='stylesheet' type='text/css'>
     <link href="http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
 
@@ -59,6 +60,9 @@
                     <li class="page-scroll">
                         <a href="#contact">Contact</a>
                     </li>
+                    <li>
+                        <a href="http://ladderanddolly.wordpress.com" target="_blank">Blog</a>
+                    </li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
@@ -71,7 +75,22 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <img class="img-responsive" src="img/profile.jpg" alt="">
+                    <div id="carousel" class="flexslider center-block">
+                        <ul class="slides">
+                            <li>
+                                <img class="img-responsive" src="img/profile.jpg" alt="">
+                            </li>
+                            <li>
+                                <img class="img-responsive" src="img/slide-01.jpg"/>
+                            </li>
+                            <li>
+                                <img class="img-responsive" src="img/slide-02.jpg"/>
+                            </li>
+                            <li>
+                                <img class="img-responsive" src="img/slide-03.jpg"/>
+                            </li>
+                        </ul>
+                    </div>
                     <div class="intro-text">
                         <span class="name">Ladder & Dolly</span>
                         <hr class="star-light">
@@ -431,6 +450,12 @@
                                 <a href="http://instagram.com/lil.lad" class="btn-social btn-outline"><i class="fa fa-fw fa-instagram"></i></a>
                             </li>
 		                    
+                            <li>
+                                <a href="http://ladderanddolly.wordpress.com" class="btn-social btn-outline"><i class="fa fa-fw fa-wordpress"></i></a>
+                            </li>
+                            <li>
+                                <a href="https://www.pinterest.com/pounds/ladder-dolly-personal-chef-service/" class="btn-social btn-outline"><i class="fa fa-fw fa-pinterest"></i></a>
+                            </li>
                         </ul>
                     </div>
                     <div class="footer-col col-md-4">
@@ -724,6 +749,9 @@
 
 <!-- simplyScroll -->
 <script src="/js/jquery.simplyscroll.min.js"></script>
+
+<!-- FlexSlider -->
+<script src="/js/jquery.flexslider.js"></script>
 
 <!-- Custom JS -->
 <script src="/js/custom.js"></script>
